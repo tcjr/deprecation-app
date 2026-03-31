@@ -34,7 +34,7 @@ but this may require additional changes to your project.
 
 The AMD-specific Ember builds will no longer be published in next Ember major release
 and no longer be bundled into `vendor.js`, even on the classic build system. These files are:
--
+
 - `ember.debug.js`
 - `ember.prod.js`
 - `ember-testing.js`
